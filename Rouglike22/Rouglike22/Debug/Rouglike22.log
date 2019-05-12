@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  Character.cpp
+  Config.cpp
+  Dragon.cpp
+  GameProcess.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(103): warning C4005: MOUSE_MOVED: изменение макроопределения
+  c:\users\aliyu\desktop\pdcurses-3.8\curses.h(183): note: см. предыдущее определение "MOUSE_MOVED"
+c:\users\aliyu\source\repos\rouglike22\rouglike22\gameprocess.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Knight.cpp
+  Log.cpp
+  map.cpp
+  MapObject.cpp
+  Potion.cpp
+  Princess.cpp
+  Projectile.cpp
+  Rouglike22.cpp
+  Wall.cpp
+  Zombie.cpp
+  Создание кода...
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  Rouglike22.vcxproj -> C:\Users\aliyu\source\repos\Rouglike22\Debug\Rouglike22.exe

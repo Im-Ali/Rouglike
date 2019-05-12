@@ -1,0 +1,6 @@
+﻿  Character.cpp
+c:\users\aliyu\source\repos\rouglike22\rouglike22\character.cpp(3): fatal error C1083: Не удается открыть файл включение: curses.h: No such file or directory,
+  GameProcess.cpp
+c:\users\aliyu\source\repos\rouglike22\rouglike22\gameprocess.cpp(2): fatal error C1083: Не удается открыть файл включение: curses.h: No such file or directory,
+  Rouglike22.cpp
+c:\users\aliyu\source\repos\rouglike22\rouglike22\rouglike22.cpp(3): fatal error C1083: Не удается открыть файл включение: curses.h: No such file or directory,
