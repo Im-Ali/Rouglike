@@ -39,10 +39,10 @@ GameProcess::GameProcess(Config *cfg) {
     this->characters[0] = player;
     position.x = 3;
     position.y = 2;
-    this->characters[MAX_OBJECTS - 4] = new Zombie(position);
+    this->characters[MAX_OBJECTS - 4] = new Zombie(this->config->zombieSym, position);
     position.x = 19;
     position.y = 3;
-    this->characters[MAX_OBJECTS - 3] = new Zombie(position);
+    this->characters[MAX_OBJECTS - 3] = new Zombie(this->config->zombieSym, position);
     position.x = 6;
     position.y = 5;
     Dragon *draco = new Dragon(this->config->dragonSym, position);
@@ -77,7 +77,7 @@ GameProcess::GameProcess(Config *cfg) {
     for (int i = 0; i < 3; i++) {
         position.x = (rand() % this->gameMap->width - 2) + 1;
         position.y = (rand() % this->gameMap->height - 2) + 1;
-        this->characters[j] = new Potion((rand() % 31) + 20 /* 20-50 */, 'A', position);
+        this->characters[j] = new Potion((rand() % 31) + 20 /* 20-50 */, this->config->potionSym, position);
         j++;
     }
   /*
@@ -125,7 +125,7 @@ GameProcess::GameProcess(Config *cfg) {
                 this->characters[i]->TickDone();
         }
 
-        Sleep(200);
+        Sleep(100);
         c = wgetch(this->win);
         // очистить очередь в консоли
         while (wgetch(this->win) != ERR)

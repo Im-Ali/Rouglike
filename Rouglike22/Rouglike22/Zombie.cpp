@@ -5,7 +5,7 @@
 int ZombieOrderNumber = 0;
 char str[20];
 
-Zombie::Zombie(Coordinate position) : Character(50, 10, 'Z', position) {
+Zombie::Zombie(char c, Coordinate position) : Character(50, 10, c, position) {
     ZombieOrderNumber++;
     this->orderNumber = ZombieOrderNumber;
 }

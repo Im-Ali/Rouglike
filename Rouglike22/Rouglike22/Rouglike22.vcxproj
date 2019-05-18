@@ -158,6 +158,7 @@
     <ClInclude Include="Config.h" />
     <ClInclude Include="Dragon.h" />
     <ClInclude Include="GameProcess.h" />
+    <ClInclude Include="json.hpp" />
     <ClInclude Include="Knight.h" />
     <ClInclude Include="Log.h" />
     <ClInclude Include="map.h" />

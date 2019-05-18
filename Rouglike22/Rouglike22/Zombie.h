@@ -5,7 +5,7 @@ class Zombie : public Character {
  private:
      int orderNumber;
  public:
-  Zombie(Coordinate position);
+  Zombie(char c, Coordinate position);
   void Interact(MapObject *c);
   const char *GetName();
   ~Zombie();

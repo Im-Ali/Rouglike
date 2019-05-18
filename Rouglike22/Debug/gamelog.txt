@@ -1,0 +1,4227 @@
+Tick: 1
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 2
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вправо
+Dragon столкнулся с Potion
+Dragon hp: 250
+Potion hp: -49
+Tick: 3
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 4
+Projectile переместился вниз
+Zombie1 переместился вниз
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 5
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 6
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 7
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 8
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 9
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 10
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 11
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 12
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 13
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 14
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile столкнулся с Princess
+Projectile hp: 0
+Princess hp: 25
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 15
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 16
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился вниз
+Zombie2 столкнулся с Projectile
+Zombie2 hp: 10
+Projectile hp: 0
+Dragon переместился вниз
+Tick: 17
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 18
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 19
+Projectile переместился влево
+Zombie1 переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 20
+Projectile переместился влево
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 21
+Projectile переместился влево
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 22
+Projectile переместился влево
+Zombie1 переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 23
+Projectile переместился влево
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 24
+Projectile переместился влево
+Zombie1 переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 25
+Projectile переместился влево
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 26
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 27
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 250
+Wall hp: 100
+Tick: 28
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 29
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 30
+Projectile переместился вправо
+Projectile столкнулся с Knight
+Projectile hp: -25
+Knight hp: 60
+Zombie1 переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 31
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 32
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 250
+Wall hp: 100
+Tick: 33
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 34
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 35
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 250
+Wall hp: 100
+Tick: 36
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 37
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 38
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 39
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 40
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 41
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 42
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 43
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 250
+Wall hp: 100
+Tick: 44
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 250
+Wall hp: 100
+Tick: 45
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 46
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 250
+Wall hp: 100
+Tick: 47
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 48
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 49
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 50
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 250
+Wall hp: 100
+Tick: 51
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 52
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 53
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 54
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 55
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 56
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 57
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 58
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 59
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 60
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 61
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 62
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 63
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 64
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 65
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 66
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 67
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie1 переместился вниз
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 68
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie1 переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 69
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie1 переместился вверх
+Zombie1 столкнулся с Dragon
+Zombie1 hp: 0
+Dragon hp: 240
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 70
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 71
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 72
+Knight переместился влево
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 73
+Knight переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 74
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 75
+Knight переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 76
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 77
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 78
+Projectile переместился вправо
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 79
+Knight переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 80
+Knight переместился влево
+Knight столкнулся с Potion
+Knight hp: 85
+Potion hp: -24
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 81
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 82
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 83
+Knight переместился вниз
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 84
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 85
+Knight переместился вниз
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 86
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 87
+Knight переместился вниз
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 88
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 89
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 90
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 91
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился влево
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 92
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 93
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 94
+Knight переместился вниз
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 95
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 96
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 97
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 98
+Knight переместился вниз
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 99
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 100
+Knight переместился вниз
+Knight столкнулся с Wall
+Knight hp: 85
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 101
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 102
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 103
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 104
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 105
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 106
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 107
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 108
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 109
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 110
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 111
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 112
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 113
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 114
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 115
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 116
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 117
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 118
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 119
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 120
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 121
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 122
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 123
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 124
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 125
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 126
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 127
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 128
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 129
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 130
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 131
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 132
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 133
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 134
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 135
+Knight переместился вправо
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 136
+Knight переместился вправо
+Knight столкнулся с Wall
+Knight hp: 85
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 137
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 138
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 139
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 140
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 141
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 142
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 143
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 144
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 145
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 146
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 147
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 148
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 149
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 150
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 151
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 152
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 153
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 154
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 155
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 156
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 157
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 158
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 159
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился вправо
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 160
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 161
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 162
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Zombie2 столкнулся с Wall
+Zombie2 hp: 10
+Wall hp: 100
+Dragon переместился вправо
+Tick: 163
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 164
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 165
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 166
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 167
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 168
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 169
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 170
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 171
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 172
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 173
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 174
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 175
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 176
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 177
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 178
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 179
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 180
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 181
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 182
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 183
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 184
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 185
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 186
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 187
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 188
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 189
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 190
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 191
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 192
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 193
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 194
+Projectile переместился вверх
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 195
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 196
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 197
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 198
+Projectile переместился вверх
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 199
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 200
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 201
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 202
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 203
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 204
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 205
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 206
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 207
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 208
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 209
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 210
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 211
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 212
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 213
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 214
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 215
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 216
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 217
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 218
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 219
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 220
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 221
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 222
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 223
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 224
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился влево
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 225
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 226
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 227
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 228
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 229
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 230
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 231
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 232
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 233
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 234
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 235
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 236
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 237
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 238
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 239
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 240
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 241
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 242
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 243
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 244
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 245
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 246
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 247
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 248
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился влево
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 249
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 250
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 251
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 252
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 253
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 254
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 255
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 256
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 257
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 258
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 259
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 260
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 261
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 262
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 263
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 264
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 265
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 266
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 267
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 268
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 269
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 270
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 271
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 272
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 273
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 274
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 275
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 276
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 277
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 278
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 279
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 280
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 281
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 282
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 283
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 284
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Zombie2 столкнулся с Wall
+Zombie2 hp: 10
+Wall hp: 100
+Dragon переместился вправо
+Tick: 285
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 286
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 287
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 288
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Projectile переместился влево
+Projectile переместился вверх
+Projectile переместился влево
+Tick: 1
+Projectile переместился вниз
+Zombie1 переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 2
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 3
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 4
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 5
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 6
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 7
+Projectile переместился вниз
+Projectile переместился влево
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 8
+Projectile переместился вниз
+Projectile переместился влево
+Zombie1 переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 9
+Projectile переместился вниз
+Projectile переместился влево
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 10
+Projectile переместился вниз
+Projectile переместился влево
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie1 переместился вверх
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 11
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 12
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 13
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вверх
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 14
+Projectile переместился вверх
+Zombie1 переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 15
+Projectile переместился вверх
+Zombie1 переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 16
+Projectile переместился вверх
+Zombie1 переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 17
+Projectile переместился вверх
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 18
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 19
+Projectile переместился вверх
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 20
+Projectile переместился вверх
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 1
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 2
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 3
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился влево
+Zombie2 столкнулся с Potion
+Zombie2 hp: 50
+Potion hp: -9
+Dragon переместился влево
+Tick: 4
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 5
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 6
+Projectile переместился вправо
+Projectile столкнулся с Princess
+Projectile hp: 0
+Princess hp: 25
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 7
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 8
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 9
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 10
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 11
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 12
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 13
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 14
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 15
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie1 переместился вниз
+Zombie1 столкнулся с Dragon
+Zombie1 hp: 0
+Dragon hp: 240
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 16
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 17
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 18
+Projectile переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 19
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 20
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 21
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 22
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 23
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вверх
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 24
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 25
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 26
+Tick: 1
+Projectile переместился вниз
+Zombie1 переместился вниз
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 2
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 3
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 4
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 5
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 6
+Projectile переместился вниз
+Zombie1 переместился вниз
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 7
+Projectile переместился вниз
+Projectile переместился вверх
+Zombie1 переместился вправо
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 8
+Projectile переместился вниз
+Projectile переместился вверх
+Zombie1 переместился вниз
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 9
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile столкнулся с Zombie1
+Projectile hp: -10
+Zombie1 hp: 10
+Zombie1 переместился вниз
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 10
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 11
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 12
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 13
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился влево
+Zombie1 переместился влево
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 14
+Knight переместился вправо
+Projectile переместился влево
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie1 переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вверх
+Dragon столкнулся с Zombie1
+Dragon hp: 240
+Zombie1 hp: -40
+Tick: 15
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 16
+Knight переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 17
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 18
+Knight переместился вправо
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 19
+Knight переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 20
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 21
+Knight переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 22
+Knight переместился вправо
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 23
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 24
+Knight переместился вправо
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 25
+Knight переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 26
+Knight переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 27
+Knight переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 28
+Knight переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 29
+Knight переместился вправо
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 30
+Projectile переместился вниз
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 31
+Knight переместился вниз
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вниз
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 32
+Knight переместился вниз
+Projectile переместился вниз
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 33
+Projectile переместился вниз
+Projectile переместился вверх
+Zombie2 переместился вниз
+Dragon переместился влево
+Dragon столкнулся с Wall
+Dragon hp: 240
+Wall hp: 100
+Tick: 34
+Knight переместился вниз
+Projectile переместился вниз
+Projectile переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 35
+Knight переместился вниз
+Projectile переместился вниз
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 36
+Knight переместился вниз
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 37
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 38
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 39
+Knight переместился влево
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 40
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 41
+Knight переместился влево
+Projectile переместился влево
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 42
+Knight переместился влево
+Projectile переместился влево
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 43
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 44
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 45
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 46
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 47
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 48
+Projectile переместился влево
+Projectile переместился вниз
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 49
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 50
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 51
+Projectile переместился влево
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 52
+Knight переместился вверх
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 53
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile столкнулся с Potion
+Projectile hp: 1
+Potion hp: 1
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 54
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 55
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 56
+Knight переместился влево
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 57
+Knight переместился влево
+Knight столкнулся с Princess
+Knight hp: 100
+Princess hp: 25
+Projectile переместился влево
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie2 переместился вверх
+Zombie2 столкнулся с Wall
+Zombie2 hp: 50
+Wall hp: 100
+Dragon переместился вниз
+Tick: 1
+Projectile переместился вверх
+Zombie1 переместился влево
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 2
+Projectile переместился вверх
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 3
+Projectile переместился вверх
+Zombie1 переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 4
+Projectile переместился вверх
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Zombie1 переместился вниз
+Zombie2 переместился вправо
+Dragon переместился вниз
+Tick: 5
+Zombie1 переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 6
+Zombie1 переместился вверх
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 7
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вниз
+Dragon переместился вниз
+Tick: 8
+Projectile переместился вниз
+Zombie1 переместился влево
+Zombie2 переместился вверх
+Dragon переместился влево
+Tick: 9
+Projectile переместился вниз
+Zombie1 переместился вверх
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 10
+Knight переместился вправо
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 11
+Projectile переместился вниз
+Zombie1 переместился вправо
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 12
+Knight переместился вправо
+Projectile переместился вниз
+Projectile столкнулся с Potion
+Projectile hp: 1
+Potion hp: 1
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился вверх
+Tick: 13
+Knight переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 14
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вниз
+Dragon переместился вверх
+Tick: 15
+Knight переместился влево
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 16
+Knight переместился влево
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 17
+Knight переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 18
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился вправо
+Dragon переместился влево
+Tick: 19
+Knight переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вправо
+Tick: 20
+Knight переместился вправо
+Projectile переместился вниз
+Projectile столкнулся с Wall
+Projectile hp: 0
+Wall hp: 100
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вниз
+Dragon переместился вправо
+Tick: 21
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вправо
+Dragon переместился вправо
+Tick: 22
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 23
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вниз
+Tick: 24
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился влево
+Dragon переместился вниз
+Tick: 25
+Projectile переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вверх
+Zombie2 переместился вверх
+Zombie2 столкнулся с Projectile
+Zombie2 hp: 10
+Projectile hp: 0
+Dragon переместился вниз
+Tick: 26
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился влево
+Dragon переместился влево
+Tick: 27
+Knight переместился вправо
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie1 столкнулся с Wall
+Zombie1 hp: 50
+Wall hp: 100
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 28
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился влево
+Dragon переместился вправо
+Tick: 29
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился вправо
+Zombie2 переместился влево
+Dragon переместился вверх
+Tick: 30
+Projectile переместился вправо
+Projectile переместился вправо
+Zombie1 переместился влево
+Zombie2 переместился вниз
+Dragon переместился влево
+Tick: 31
+Projectile переместился вправо
+Projectile переместился вниз
+Projectile переместился вправо
+Zombie1 переместился вниз
+Zombie2 переместился вверх
+Dragon переместился вверх
+Tick: 32

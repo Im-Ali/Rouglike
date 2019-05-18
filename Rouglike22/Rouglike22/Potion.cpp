@@ -11,7 +11,7 @@ Potion::Potion(int hp, char sym, Coordinate coord) : MapObject(sym, coord) {
 void Potion::Interact(MapObject *c) {
     c->RestoreHP(this->upHP);
 }
-
+    
 const char *Potion::GetName() {
     return "Potion";
 }

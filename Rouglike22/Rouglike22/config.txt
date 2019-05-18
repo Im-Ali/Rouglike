@@ -1,0 +1,6 @@
+﻿{
+	"player": 75,
+	"dragon": 68,
+	"zombie": 90,
+	"potion": 65
+}

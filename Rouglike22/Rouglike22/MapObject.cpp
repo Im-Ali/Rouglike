@@ -15,7 +15,7 @@ int MapObject::GetHP() { return this->hp; }
 
 char MapObject::GetSym() { return this->sym; }
 
-bool MapObject::isPrincess() { return false; }
+bool MapObject::isPrincess() { return false; }          
 
 bool MapObject::isProjectile() { return false; }
 

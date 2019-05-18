@@ -20,7 +20,7 @@ const char *Knight::GetName() {
 bool Knight::ShootArrow() {
     if (this->mana >= 5 && this->delay == 0) {
         this->mana -= 5;
-        this->delay = 3;
+        this->delay = 5;
         return true;
     }
     return false;
