@@ -1,11 +1,12 @@
 #include "pch.h"
 #include <stdio.h>
 #include "Zombie.h"
+#include "Config.h"
 
 int ZombieOrderNumber = 0;
 char str[20];
 
-Zombie::Zombie(char c, Coordinate position) : Character(50, 10, c, position) {
+Zombie::Zombie(char c, Coordinate position) : Character(Config::CFG().zombieHP, Config::CFG().zombieAttack, c, position) {
     ZombieOrderNumber++;
     this->orderNumber = ZombieOrderNumber;
 }

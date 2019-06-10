@@ -1,0 +1,9 @@
+﻿{
+	"player": "K",
+	"dragon": "D",
+	"zombie": "Z",
+	"potion": "A",
+	"princess": "P",
+	"wall": "#",
+	"default": "."
+}

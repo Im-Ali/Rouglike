@@ -14,13 +14,13 @@ void Log::WriteMove(Character *ch, bool move) {
   char dir[10] = "?";
 
   if (move) {
-    if (ch->GetMoveDirection() == 1)
+    if (ch->GetMoveDirection() == DirectionLeft)
           sprintf(dir, "влево");
-      else if (ch->GetMoveDirection() == 2) 
+      else if (ch->GetMoveDirection() == DirectionRight) 
           sprintf(dir, "вправо");
-      else if (ch->GetMoveDirection() == 3)
+      else if (ch->GetMoveDirection() == DirectionUp)
           sprintf(dir, "вверх");
-      else if (ch->GetMoveDirection() == 4)
+      else if (ch->GetMoveDirection() == DirectionDown)
           sprintf(dir, "вниз");
       sprintf(str, "%s переместился %s", ch->GetName(), dir);
       Log::Write(str);

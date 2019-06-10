@@ -2,7 +2,7 @@
 #include "Wall.h"
 
 
-Wall::Wall(Coordinate position) : Character(100, 0, '#', position) {
+Wall::Wall(char sym, Coordinate position) : Character(100, 0, sym, position) {
     this->canMove = false;
 }
 

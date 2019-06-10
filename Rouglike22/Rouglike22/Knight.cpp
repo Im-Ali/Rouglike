@@ -1,9 +1,10 @@
 #include "pch.h"
 #include "Knight.h"
+#include "Config.h"
 
 Knight::Knight(int hp, int damage, char sym, Coordinate pos) : Character(hp, damage, sym, pos)
 {
-    this->maxMana = 100;
+    this->maxMana = Config::CFG().playerMana;
     this->mana = this->maxMana;
 }
 
@@ -18,9 +19,9 @@ const char *Knight::GetName() {
 }
 
 bool Knight::ShootArrow() {
-    if (this->mana >= 5 && this->delay == 0) {
-        this->mana -= 5;
-        this->delay = 5;
+    if (this->mana >= Config::CFG().playerShootingMana && this->delay == 0) {
+        this->mana -= Config::CFG().playerShootingMana;
+        this->delay = Config::CFG().playerShootingDelay;
         return true;
     }
     return false;
@@ -33,8 +34,12 @@ void Knight::TickDone() {
         if (this->manaRestoreDelay > 0)
             this->manaRestoreDelay -= 1;
         else {
-            this->mana += 1;
-            this->manaRestoreDelay = 7;
+            int mana = Config::CFG().playerManaregenValue;
+            if (this->mana + mana > this->maxMana)
+                this->mana = this->maxMana;
+            else
+                this->mana += mana;
+            this->manaRestoreDelay = Config::CFG().playerManaregenDelay;
         }
     }
 }

@@ -2,9 +2,9 @@
 #include "Princess.h"
 
 
-Princess::Princess(Coordinate position): Character(25, 0, 'P', position) {
-  this->mana= 10;
-  this->canMove = false;
+Princess::Princess(char sym, Coordinate position): Character(25, 0, sym, position) {
+    this->mana= 10;
+    this->canMove = false;
 }
 
 bool Princess::isPrincess() {

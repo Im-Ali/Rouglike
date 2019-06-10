@@ -6,7 +6,7 @@
 
 int main() {
 
-    GameProcess *gp = new GameProcess(new Config());
+    GameProcess *gp = new GameProcess();
     delete gp;
 
 }

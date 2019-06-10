@@ -167,6 +167,7 @@
     <ClInclude Include="Potion.h" />
     <ClInclude Include="Princess.h" />
     <ClInclude Include="Projectile.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="Wall.h" />
     <ClInclude Include="Zombie.h" />
   </ItemGroup>
@@ -191,6 +192,17 @@
     <ClCompile Include="Rouglike22.cpp" />
     <ClCompile Include="Wall.cpp" />
     <ClCompile Include="Zombie.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="config.txt">
+      <DeploymentContent>true</DeploymentContent>
+    </Text>
+    <Text Include="map.txt">
+      <DeploymentContent>true</DeploymentContent>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Rouglike22.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,5 @@
 #include "pch.h"
 #include "Character.h"
-#include <curses.h>
-
 
 Character::Character(int hp, int damage, char sym, Coordinate pos) : MapObject(sym, pos) {
     this->hp = hp;
@@ -9,7 +7,7 @@ Character::Character(int hp, int damage, char sym, Coordinate pos) : MapObject(s
     this->damage = damage;
     this->mana = 0;
     this->canMove = true;
-    this->moveDirection = 0;
+    this->moveDirection = DirectionRandom;
 }
 
 int Character::GetMP() { 
@@ -28,11 +26,11 @@ void Character::Attack(MapObject *c) {
     c->ReceiveDamage(this->damage);
 }
 
-int Character::GetMoveDirection() {
+Direction Character::GetMoveDirection() {
     return this->moveDirection;
 }
 
-void Character::SetMoveDirection(int direction) {
+void Character::SetMoveDirection(Direction direction) {
     this->moveDirection = direction;
 }
 

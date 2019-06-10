@@ -1,8 +1,9 @@
 #include "pch.h"
 #include "Dragon.h"
+#include "Config.h"
 
 
-Dragon::Dragon(char c, Coordinate position) : Character(250, 50, c, position) {}
+Dragon::Dragon(char c, Coordinate position) : Character(Config::CFG().dragonHP, Config::CFG().dragonAttack, c, position) {}
 
 void Dragon::Interact(MapObject *c) {
     if (!c->isPrincess())
@@ -21,7 +22,7 @@ bool Dragon::CanThrowFireball() {
 
 bool Dragon::Fireball() {
     if (this->delay == 0) {
-        this->delay = 6;
+        this->delay = Config::CFG().dragonFireballDelay;
         return true;
     }
     return false;

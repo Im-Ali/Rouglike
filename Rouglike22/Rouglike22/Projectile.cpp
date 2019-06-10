@@ -2,16 +2,16 @@
 #include "Projectile.h"
 
 
-Projectile::Projectile(int damage, char sym, Coordinate pos, int direction) : Character(1, damage, sym, pos) {
+Projectile::Projectile(int damage, char sym, Coordinate pos, Direction direction) : Character(1, damage, sym, pos) {
     this->moveDirection = direction;
     this->savedDirection = direction;
     this->nonInteractedObject = 0;
     this->delay = 0;
 }
 
-void Projectile::SetMoveDirection(int direction) {
-    if (direction == 0)
-        this->moveDirection = 0;
+void Projectile::SetMoveDirection(Direction direction) {
+    if (direction == DirectionRandom)
+        this->moveDirection = DirectionRandom;
     else
         this->moveDirection = this->savedDirection;
 }

@@ -1,20 +1,29 @@
 #pragma once
 #include "MapObject.h"
- 
+
+enum Direction {
+    DirectionRandom,
+    DirectionLeft,
+    DirectionRight,
+    DirectionUp,
+    DirectionDown,
+    DirectionNone
+};
+
  class Character : public MapObject {
  private:
      int damage;
  protected:
-     int moveDirection; // 0 - стоит, 1 - влево, 2 - вправо, 3 - вверх, 4 - вниз
+     Direction moveDirection;
      int mana;
  public:
      int GetMP();
      int GetDamage();
      void MoveTo(Coordinate position);
      void Attack(MapObject *c);
-     int GetMoveDirection();
-     virtual void SetMoveDirection(int direction);
+     Direction GetMoveDirection();
+     virtual void SetMoveDirection(Direction direction);
     
-  Character(int hp, int damage, char sym, Coordinate pos);
-  ~Character();
+     Character(int hp, int damage, char sym, Coordinate pos);
+     ~Character();
 };

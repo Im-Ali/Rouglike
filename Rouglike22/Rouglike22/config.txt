@@ -1,6 +1,54 @@
 ﻿{
-	"player": 75,
-	"dragon": 68,
-	"zombie": 90,
-	"potion": 65
+	"player": {
+		"hp": 100,
+		"mana": 100,
+		"attack": 25,
+		"symbol": "K",
+		"shooting": {
+			"attack": 10,
+			"mana": 5,
+			"delay": 5,
+			"symbol": "+"
+		},
+		"manaregen": {
+			"value": 1,
+			"delay": 7
+		}
+	},
+	"dragon": {
+		"hp": 250,
+		"attack": 50,
+		"symbol": "D",
+		"fireball": {
+			"attack": 40,
+			"delay": 6,
+			"symbol": "*"
+		}
+	},
+	"zombie": {
+		"hp": 50,
+		"attack": 10,
+		"symbol": "Z"
+	},
+	"potion": {
+		"symbol": "A",
+		"value": {
+			"min": 20,
+			"max": 50
+		}
+	},
+	"princess": {
+		"symbol": "P"
+	},
+	"wall": {
+		"symbol": "#"
+	},
+	"map": {
+		"defaultSymbol": ".",
+		"width": 71,
+		"height": 20
+	},
+	"game": {
+		"delay": 100
+	}
 }

@@ -1,19 +1,38 @@
 #pragma once
 #include "map.h"
-#include "Character.h"
-#include "Config.h" 
+#include "Knight.h"
+#include "Dragon.h"
+#include "Princess.h" 
 
-const int MAX_OBJECTS = 256;
+enum GameResults {
+    GameResultNone,
+    GameResultWin,
+    GameResultLose,
+    GameResultDeadPrincess
+};
 
 class GameProcess {
- private:
+private:
      int width, height;
      WINDOW *win, *info;
+     
      map *gameMap;
-     MapObject *characters[MAX_OBJECTS];
-     Config *config;
-     void addProjectile(Coordinate coord, int direction, int damage, char c);
- public:
-  GameProcess(Config *cfg);
-  ~GameProcess();
+     MapObject **characters;
+     
+     Knight *player;
+     Dragon *draco;
+     Princess *princess;
+
+     void addProjectile(Coordinate coord, Direction direction, int damage, char c);
+     Direction PressButton(char c, Direction *projectileDirection);
+     Coordinate NewCoordinate(Coordinate position, Direction direction);
+
+     bool InitMapAndCharacters();
+     GameResults Run();
+
+     void ClearInput();
+     void Clear();
+public:
+    GameProcess();
+    ~GameProcess();
 };
